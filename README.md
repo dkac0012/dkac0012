@@ -15,6 +15,7 @@
 | 1  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크] | 2023-09-13 |
 | 2  | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 개인 프로젝트 | [GitHub 링크](https://github.com/dkac0012/linux_pam) | 2024-09-19 |
 | 3  | **Deep Understanding of Average Load in Linux** | 평균 부하의 모니터링 | Linux, VirtualBox, Stess, 모니터링 | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/soljjang777/LinuxMater2) | 2024-09-23 |
+| 4  | **Docker Optimizing Analyze** | 도커 경량화 분석 비교 | Linux, docker | 👨‍💻 | [GitHub 링크](https://github.com/dkac0012/docker-optimizing) | 2024-09-23 |
 
 <br>
 
