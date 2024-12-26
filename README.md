@@ -28,6 +28,6 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **타이타닉 데이터 시각화** | 타이타닉 데이터 적재 및 시각화 후 분석 | ELK , Filebeat | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Lisiant/Titanic_Visualize) | 2024-07-25 |
-| 2  | **FISA 송금시스템 ELK 구축** | 송금 데이터 모니터링 | Spring Boot, ELK, Filebeat | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/SeokCheol-Lee/FISA-Forex-Pay/tree/main) | 2024-08-16 |
+| 2  | **송금시스템 ELK 구축** | 송금 데이터 모니터링 | Spring Boot, ELK, Filebeat | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/SeokCheol-Lee/FISA-Forex-Pay/tree/main) | 2024-08-16 |
 
 ---
