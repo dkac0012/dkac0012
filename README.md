@@ -12,7 +12,7 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 개인 프로젝트 | [GitHub 링크](https://github.com/dkac0012/linux_pam) | 2024-09-19 |
+| 1  | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 👨‍💻 | [GitHub 링크](https://github.com/dkac0012/linux_pam) | 2024-09-19 |
 | 2  | **Docker Optimizing Analyze** | 도커 경량화 분석 비교 | Linux, docker | 👨‍💻 | [GitHub 링크](https://github.com/dkac0012/docker-optimizing) | 2024-09-23 |
 | 3  | **Jenkins-Development-Operational** | jenkins 운영서버 및 개발서버 code pipeline 구축 | Linux, docker | 👨‍💻 | [GitHub 링크](https://github.com/dkac0012/Jenkins-Development-Operational) | 2024-10-01 |
 | 4  | **k8s-external-communication** | K8S 외부 통신 | Linux, docker | 👨‍💻 | [GitHub 링크](https://github.com/dkac0012/k8s-external-communication) | 2024-10-02 |
